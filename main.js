@@ -2,6 +2,18 @@
  * YOUR CODE BELOW *
  ******************/
 
+let myFirstName = "cesar"
+let myLastName = 'Juarez';
+let myBestFriend = 'Nason';
+let mySentence = "My name is" + myFirstName + myLastName + "and my best friend is" + myBestFriend;
+let myFavoriteNum = '23'
+let myMentalAge = '40'
+let myHeight = '69'
+let myFavoriteYear = '2020'
+let mySum = '3 + 1918 + 24 + 1'
+let myProduct = '232 * 43 / 2 + 4'
+let myHeightAndAge = myHeight + myMentalAge;
+
 
 
 
